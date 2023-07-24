@@ -9,7 +9,7 @@ I'm a 3rd-year student pursuing a degree in Computer and Data Science at Ariel U
 - 🌱 Interests: I have a passion for Machine Learning and Deep Learning.
 - 💻 Coding: I love exploring new technologies and coding projects that challenge me.
 - 📚 Learning: Always eager to learn and expand my knowledge in the world of Data Science.
-- 
+  
 ### My Tools
 Here are some of the tools and programming languages I'm proficient in:
 
@@ -17,13 +17,15 @@ Here are some of the tools and programming languages I'm proficient in:
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="80" height="80"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="80" height="80"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80" height="80"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="80" height="80"/>&nbsp;&nbsp;
-</p>
+  </p>
 <p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="80" height="80"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" title="Ubuntu" width="80" height="80"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="80" height="80"/>&nbsp;
+  </p>
+<p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" title="Jupyter" width="80" height="80"/>&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80" height="80"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="90" height="90"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>
 </p>
 
@@ -38,9 +40,7 @@ Here are some of the projects you'll find in my repositories:
 
 
 ### My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IlanSimchon&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=IlanSimchon&theme=dark&border_radius=7.1&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 ### Contact Me
 -  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilan.simchon12@gmail.com)
