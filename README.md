@@ -30,9 +30,9 @@ Here are some of the tools and programming languages I'm proficient in:
 ### My Projects
 Here are some of the projects you'll find in my repositories:
 
-1. 🏀[NBA - Hall Of Fame prediction](https://github.com/IlanSimchon/NBA-Hall-Of-Fame) - Brief description of the project.
-2. 📈[Bayesian network project](https://github.com/IlanSimchon/BayesianNetwork-project) - Brief description of the project.
-3. 🔎[Networks - Packet Sniffing and Spoofing](https://github.com/IlanSimchon/Networks-5) - Brief description of the project.
+1. 🏀[NBA - Hall Of Fame prediction](https://github.com/IlanSimchon/NBA-Hall-Of-Fame) - Predicting which players will enter the Hall of Fame.
+2. ☎️[Bayesian network project](https://github.com/IlanSimchon/BayesianNetwork-project) - Implement Bayesian networks and different probability calculation algorithms.
+3. 🔎[Networks - Ping](https://github.com/IlanSimchon/Networks-4) - Implementation of ping command and watchdog integration.
 
 
 
