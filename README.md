@@ -20,6 +20,7 @@ Here are some of the tools and programming languages I'm proficient in:
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="80" height="80"/>&nbsp;&nbsp;
 </p>
 <p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" title="Ubuntu" width="80" height="80"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" title="Jupyter" width="80" height="80"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="80" height="80"/>&nbsp;&nbsp;
@@ -31,12 +32,12 @@ Here are some of the tools and programming languages I'm proficient in:
 Here are some of the projects you'll find in my repositories:
 
 1. 🏀[NBA - Hall Of Fame prediction](https://github.com/IlanSimchon/NBA-Hall-Of-Fame) - Predicting which players will enter the Hall of Fame.
-2. ☎️[Bayesian network project](https://github.com/IlanSimchon/BayesianNetwork-project) - Implement Bayesian networks and different probability calculation algorithms.
-3. 🔎[Networks - Ping](https://github.com/IlanSimchon/Networks-4) - Implementation of ping command and watchdog integration.
+2. 📈[Bayesian network project](https://github.com/IlanSimchon/BayesianNetwork-project) - Implement Bayesian networks and different probability calculation algorithms.
+3. ☎️[Networks - Ping](https://github.com/IlanSimchon/Networks-4) - Implementation of ping command and watchdog integration.
 
 
 
-### :fire: My Stats :
+### My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IlanSimchon&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
